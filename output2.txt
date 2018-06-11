@@ -1,0 +1,1 @@
+EnvironmentName, EnvironmentType, ComponentName, ComponentPath;env1, DEV, Comp1, PATH;, , comp2, PATH2;env3, STAGE, , ;EnvironmentName, EnvironmentType, ComponentName, ComponentPath, Variable;env1, DEV, Comp1, PATH, ;, , comp2, PATH2, ;env3, STAGE, , , ;
